@@ -8,5 +8,6 @@ Build a few form fields with HTML, CSS, and JavaScript
 - Textarea character counter
 
 ### Demo link:
+https://jeffclaybrook.github.io/Form-Fields-Tutorial/
 
 Happy coding!
